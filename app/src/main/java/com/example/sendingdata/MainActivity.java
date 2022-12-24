@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         names.add("ramji");
         names.add("Sitaji!");
         names.add("SHiv bhgwan");
+        names.add("Namah Shivaaye");
 
 
 
