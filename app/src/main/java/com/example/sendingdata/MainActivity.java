@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         names.add("Hanumanji hai");
         names.add("ramji");
         names.add("Sitaji!");
+        names.add("SHiv bhgwan");
 
 
 
